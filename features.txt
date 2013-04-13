@@ -1,0 +1,3 @@
+Feature 1
+Begrifflichkeiten: Konzepte: MVC, OOP, Design Patterns, Responsive Design, AJAX, REST, CachingWireframing Tools
+Aliasse für die KOmmandozeile:alias gl="git log --graph --oneline"Sandra-Modschiedlers-MacBook-Pro:Projekt sandramodschiedler$ gl
